@@ -1,0 +1,24 @@
+{
+  "name": "gqlsjena",
+  "version": "0.0.1",
+  "description": "This is a node-based graphql server for a jena-compliant sparql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtcagle/gqlsjena.git"
+  },
+  "keywords": [
+    "sparql",
+    "jena",
+    "graphql"
+  ],
+  "author": "kurt.cagle@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurtcagle/gqlsjena/issues"
+  },
+  "homepage": "https://github.com/kurtcagle/gqlsjena#readme"
+}
